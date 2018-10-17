@@ -1,2 +1,2 @@
 # mengmeng
-just only code
+  你好，这是我第一个测试程序，仅以此来学习使用
